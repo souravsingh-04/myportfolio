@@ -49,7 +49,7 @@ const Contact = () => {
               </a>
 
               <a
-                href="https://linkedin.com/in/sourav-singh"
+                href="https://www.linkedin.com/in/souravsingh04/"
                 target="_blank"
                 className="bg-[#1f1f23] hover:bg-accent hover:text-primary px-6 py-3 rounded-xl flex items-center gap-3 transition-all"
               >
@@ -57,7 +57,7 @@ const Contact = () => {
               </a>
 
               <a
-                href="https://github.com/souravsingh"
+                href="https://github.com/souravsingh-04"
                 target="_blank"
                 className="bg-[#1f1f23] hover:bg-accent hover:text-primary px-6 py-3 rounded-xl flex items-center gap-3 transition-all"
               >
